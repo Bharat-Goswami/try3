@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/try3/static/css/main.9e38a03f.css",
+    "main.js": "/try3/static/js/main.c9daf156.js",
+    "static/media/Resume.pdf": "/try3/static/media/Resume.c93417db4f34b357fa14.pdf",
+    "static/media/StayWriter-Handmade.otf": "/try3/static/media/StayWriter-Handmade.38330efe7d5a2e54a3d9.otf",
+    "index.html": "/try3/index.html",
+    "main.9e38a03f.css.map": "/try3/static/css/main.9e38a03f.css.map",
+    "main.c9daf156.js.map": "/try3/static/js/main.c9daf156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e38a03f.css",
+    "static/js/main.c9daf156.js"
+  ]
+}
