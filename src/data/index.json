@@ -1,0 +1,83 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-end Development (React)",
+      "description": "Develops interactive and dynamic user interfaces using React, ensuring a seamless and engaging experience for website visitors."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-end Development (MERN)",
+      "description": "Manages server-side operations with Node.js, Express, and MongoDB, ensuring data integrity and overall application functionality."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Strives to optimize user experience by conducting thorough research, creating insightful wireframes, and designing visually appealing interfaces."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Utilizes Webflow for visually creating responsive websites, combining design and development seamlessly to streamline the web development process."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image3.png",
+      "title": "Online Medical Store",
+      "description": "Successfully developed a sophisticated online medical store using a tech stack of JavaScript, HTML, and CSS. Meticulously designed a user-friendly interface that boasts a comprehensive catalog of medical supplies and health-related products, ensuring an engaging and informative browsing experience. Incorporated a robust JSON server to provide efficient backend support and seamless data management, thereby optimizing the overall functionality and responsiveness of the platform.",
+      "link": "View In Github",
+      "diploy":"https://653654a73f8e7f009d227893--bespoke-raindrop-bfcf0e.netlify.app/",
+      "Github":"https://github.com/satyam46020/joyful-ring-9720"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image1.png",
+      "title": "Nykaa online shopping website",
+      "description": "Developed a feature-rich dynamic shopping cart, empowering users to effortlessly add products, review selections, and securely proceed to checkout. Implemented local storage functionality to ensure a secure and persistent shopping experience, allowing users to conveniently resume their shopping sessions. The system prioritizes thoughtful architecture, user-friendly navigation, and optimized product cards/pages, enhancing the overall shopping experience with filters and a streamlined checkout process.",
+      "link": "View In Github",
+      "diploy":"https://651428efa7339b1743627d39--beamish-llama-315f67.netlify.app/",
+      "Github":"https://github.com/sachin2398/Nykaa-Project"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-3.png",
+      "title": "Wine Store - E-COMMERCE",
+      "description": "Developed MineWine, an online wine store using React. Enables customers to explore diverse wine regions, varieties, and producers. The platform offers a broad selection, from rare to everyday wines, sourced directly from wineries and distributors. Emphasized thoughtful architecture, easy navigation, and optimized product cards/pages for a seamless shopping experience, including filters and a straightforward checkout process. including filters and a straightforward checkout process.",
+      "link": "View In Github",
+      "diploy":"https://656df79625c82c0f30427cdf--astounding-paletas-024cf6.netlify.app/"
+      
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Your work showcases impressive technical skills. The way you've implemented advanced features and also the integrated cutting-edge technologies is truly commendable. All the best for future",
+      "author_name": "Sachin Kumar",
+      "author_designation": "Masai School"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Your understanding of user needs shines through in your portfolio. The user-friendly interfaces and detailed product catalogs showcase your talent for creating engaging and intuitive designs.",
+      "author_name": "Vikas Yadav",
+      "author_designation": "Masai School"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I appreciate how you've effectively communicated your project achievements. The concise yet detailed summaries provide a clear picture of your contributions, from  backend solutions to thoughtful frontend design.",
+      "author_name": "Rohan Singh",
+      "author_designation": "Masai School"
+    }
+  ]
+}
