@@ -502,6 +502,14 @@ h2 {
   white-space: nowrap;
 } */
 
+.github--section {
+  display: flex;
+  padding: 0px 85.33px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 106.667px;
+}
 
 
 

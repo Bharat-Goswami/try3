@@ -1,3 +1,4 @@
+import Github from "../../Github";
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
@@ -12,6 +13,7 @@ export default function Home() {
       <HeroSection />
       <MySkills />
       <MyPortfolio />
+      <Github/>
       <AboutMe />
 
       <Testimonial />
